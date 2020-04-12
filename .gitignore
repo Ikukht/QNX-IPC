@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# But descend into directories
+!*/
+# Recursively allow files under subtree
+!/common/**
+!/des_controller/src/**
+!/des_display/src/**
+!/des_input/src/**
+!.gitignore
